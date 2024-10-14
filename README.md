@@ -4,7 +4,7 @@
 This project is a **Java Spring Boot** REST API that acts as a knowledge base, allowing users to store, retrieve, and query documents. The content of each document is enhanced using the **local Ollama LLaMA3 model**. The document data is stored in a **PostgreSQL** database, and the LLaMA3 model is called via an HTTP request to a local service.
 
 ### RAG (retrieval-augmented generation)
-This project leverages RAG (retrieval-augmented generation) which RAG is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process.
+This project leverages RAG (retrieval-augmented generation) which is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process.
 
 ## Table of Contents
 
